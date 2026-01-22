@@ -1,4 +1,17 @@
 /* Place CSS styles here */
 body {
-    background-color: rgb(234, 162, 172);
+    background-color: rgb(168, 197, 210);
+}
+
+img {
+    width: 250px;
+    margin-right: 16px;
+    border: 3px groove #16225b;
+}
+
+.john-pork.jpg {
+     width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
